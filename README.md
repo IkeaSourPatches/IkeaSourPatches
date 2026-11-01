@@ -8,5 +8,3 @@ Student at Singapore American School. Competitive programmer, builder of strange
 - 📖 [Quoderat wiki](https://github.com/IkeaSourPatches/quoderat-wiki): a bilingual EN/中文 wiki for a fictional world
 - 💣 [Rickroll Minesweeper](https://ikeasourpatches.github.io/rickroll-minesweeper/): just don't press Reset twice
 - 🎲 Off the keyboard: GMing D&D and SWADE, Model UN, Stellaris, and Genshin
-
-🌐 [ikeasourpatches.github.io](https://ikeasourpatches.github.io)

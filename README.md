@@ -1,3 +1,5 @@
+<img src="string.png" width="120" align="right" alt="String, a calico catgirl, waving hi">
+
 # Hi, I'm Gordon 👋
 
 Student at Singapore American School. Competitive programmer, builder of strange little things, will randomly fork your repo.

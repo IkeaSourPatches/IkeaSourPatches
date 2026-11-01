@@ -1,9 +1,12 @@
 # Hi, I'm Gordon 👋
 
-High-school junior at Singapore American School, heading toward CS.
+Student at Singapore American School. Competitive programmer, builder of strange little things, will randomly fork your repo.
 
-- 💻 Mostly C++: competitive programming (USACO)
-- 🐱 Building **String**, my calico catgirl mascot: stickers, a Live2D model, and image-gen workflows
-- 🎲 Off the keyboard: GMing D&D, MUN, Stellaris, and Genshin
+- 💻 C++ for competitions: training for USACO (Bronze)
+- 🤖 Experimenting with AI
+- 🐱 **String**, my calico catgirl OC: 4 sticker packs live on WeChat, a Live2D model, and image-gen workflows
+- 📖 [Quoderat wiki](https://github.com/IkeaSourPatches/quoderat-wiki): a bilingual EN/中文 wiki for a fictional world
+- 💣 [Rickroll Minesweeper](https://ikeasourpatches.github.io/rickroll-minesweeper/): just don't press Reset twice
+- 🎲 Off the keyboard: GMing D&D and SWADE, Model UN, Stellaris, and Genshin
 
 🌐 [ikeasourpatches.github.io](https://ikeasourpatches.github.io)

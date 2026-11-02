@@ -1,9 +1,8 @@
-<img src="string.png" width="120" align="right" alt="String, a calico catgirl, waving hi">
 
 # Hi, I'm Gordon 👋
 
 Student at Singapore American School. Competitive programmer, builder of strange little things, will randomly fork your repo.
-
+<img src="string.png" width="120" align="right" alt="String, a calico catgirl, waving hi">
 - 💻 C++ for competitions: training for USACO (Bronze)
 - 🤖 Experimenting with AI
 - 🐱 **String**, my calico catgirl OC: 4 sticker packs live on WeChat, a Live2D model, and image-gen workflows

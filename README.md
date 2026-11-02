@@ -44,6 +44,7 @@ C++ for practice; React, TypeScript, Vite, and Python/Django in the [wiki](https
         <img src="assets/minesweeper.svg" width="100%" alt="A Minesweeper grid with numbered squares, a flag, and one suspicious tile" />
       </a>
       <h3><a href="https://ikeasourpatches.github.io/minesweeper/">Minesweeper</a></h3>
+      <img src="assets/stickers/skill-issue.png" align="right" width="72" alt="String smirking: skill issue" />
       <p>The classic <b>10 × 10</b> game, in one HTML file. Small enough to keep simple. Still enough room to click a mine.</p>
       <p><a href="https://ikeasourpatches.github.io/minesweeper/">Play a round →</a></p>
     </td>
@@ -52,11 +53,15 @@ C++ for practice; React, TypeScript, Vite, and Python/Django in the [wiki](https
 
 ## Away from the keyboard
 
+<img src="assets/stickers/slacking.png" align="right" width="96" alt="String asleep on a plush fish, captioned 摸鱼 (slacking off)" />
+
 Usually GMing **D&D** or **SWADE**, doing **Model UN**, or somewhere in **Stellaris** and **Genshin**. Apparently, building fictional worlds wasn't enough; I have to spend time in other people's, too.
 
 <details open>
   <summary><b>Recently forked, no explanation given.</b></summary>
   <br />
+
+  <img src="assets/stickers/not-on-purpose.png" align="right" width="96" alt="String tangled in red yarn, captioned 不是故意的 (not on purpose)" />
 
   - [mesh-avatar-studio](https://github.com/IkeaSourPatches/mesh-avatar-studio): okay, one explanation. [My PR got merged](https://github.com/shinshin86/mesh-avatar-studio/pull/78), and String's eyes use it.
   - [better-usaco](https://github.com/IkeaSourPatches/better-usaco): also [merged](https://github.com/YianXie/better-usaco/pull/1). It remembers your submission language now.
@@ -64,7 +69,7 @@ Usually GMing **D&D** or **SWADE**, doing **Model UN**, or somewhere in **Stella
 
 </details>
 
-## A little progress
+## A little progress <img src="assets/stickers/watching.png" height="56" align="middle" alt="String eating popcorn, watching" />
 
 <a href="https://github.com/IkeaSourPatches?tab=overview#year-list-container">
   <picture>

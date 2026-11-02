@@ -32,12 +32,12 @@ C++ for practice; React, TypeScript, Vite, and Python/Django in the [wiki](https
 <table>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/IkeaSourPatches/quoderat-wiki">
+      <a href="https://quoderat.org">
         <img src="assets/quoderat.svg" width="100%" alt="An illustrated map with paths, mountains, and a little unexplored territory" />
       </a>
-      <h3><a href="https://github.com/IkeaSourPatches/quoderat-wiki">Quoderat</a></h3>
+      <h3><a href="https://quoderat.org">Quoderat</a></h3>
       <p>A bilingual <b>EN / 中文</b> wiki for a fictional world. Worldbuilding, one page at a time.</p>
-      <p><a href="https://github.com/IkeaSourPatches/quoderat-wiki">Explore the wiki →</a></p>
+      <p><a href="https://quoderat.org">Explore the wiki →</a></p>
     </td>
     <td width="50%" valign="top">
       <a href="https://ikeasourpatches.github.io/minesweeper/">

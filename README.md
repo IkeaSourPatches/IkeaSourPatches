@@ -44,7 +44,7 @@ C++ for practice; React, TypeScript, Vite, and Python/Django in the [wiki](https
         <img src="assets/minesweeper.svg" width="100%" alt="A Minesweeper grid with numbered squares, a flag, and one suspicious tile" />
       </a>
       <h3><a href="https://ikeasourpatches.github.io/minesweeper/">Minesweeper</a></h3>
-      <p>The classic <b>10 × 10</b> game, in one HTML file. Small enough to keep simple. Still enough room to click a mine. <img src="assets/stickers/skill-issue.png" width="64" align="middle" alt="String smirking: skill issue" /></p>
+      <p>The classic <b>10 × 10</b> game, in one HTML file. Small enough to keep simple. Still enough room to click a mine.
       <p><a href="https://ikeasourpatches.github.io/minesweeper/">Play a round →</a></p>
     </td>
   </tr>

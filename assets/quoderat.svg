@@ -1,35 +1,49 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="600" height="190" viewBox="0 0 600 190" fill="none" role="img" aria-labelledby="title desc">
-  <title id="title">A world waiting to be explored</title>
-  <desc id="desc">A dark green fictional map, with cream contour lines, mountains, and an orange route between two places.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="160" viewBox="0 0 900 160" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">A world between the pages</title>
+  <desc id="desc">An open book becomes a panoramic evergreen map, with snowy mountains, a winding river, an orange dotted trail, and a cream compass rose.</desc>
   <defs>
-    <clipPath id="frame"><rect width="600" height="190" rx="10"/></clipPath>
-    <pattern id="grid" width="38" height="38" patternUnits="userSpaceOnUse">
-      <path d="M38 0H0V38" stroke="#D8E0CE" stroke-opacity=".08"/>
+    <clipPath id="frame"><rect width="900" height="160" rx="12"/></clipPath>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" stroke="#F5F1E8" stroke-opacity=".055"/>
     </pattern>
   </defs>
   <g clip-path="url(#frame)">
-    <rect width="600" height="190" fill="#293D36"/>
-    <rect width="600" height="190" fill="url(#grid)"/>
-    <g stroke="#C8D2B5" stroke-opacity=".35" stroke-width="1.2">
-      <path d="M-30 157C46 69 43 34 117 39S199 104 261 68S281-27 367-8S437 100 490 79S548 12 636 27"/>
-      <path d="M-30 180C55 87 55 53 117 59S193 125 269 89S294-4 359 12S431 123 499 101S555 35 635 49"/>
-      <path d="M-22 205C68 110 67 75 118 81S193 147 277 111S305 18 351 32S426 145 507 123S564 57 636 71"/>
-      <path d="M13 207C88 131 79 98 120 103S190 169 286 133S315 40 344 52S419 169 516 145S574 80 636 93"/>
-      <path d="M-34 119C25 80 20 11 107 16S191 80 251 47S270-47 376-29"/>
-      <path d="M376 205C411 184 431 199 479 180S561 107 635 116"/>
+    <rect width="900" height="160" fill="#293D36"/>
+    <rect width="900" height="160" fill="url(#grid)"/>
+    <g stroke="#BAC6AA" stroke-opacity=".23" stroke-width="1.25">
+      <path d="M-20 37C44 4 104 20 149-6M-20 61C35 26 90 47 131 20S174-18 210-6M-20 85C34 52 89 72 141 44S178 5 220 14S253 44 268 38"/>
+      <path d="M197 173C198 130 233 118 256 104S275 69 304 69S347 91 379 79M209 177C211 141 239 133 268 117S283 83 305 83S350 107 386 93M225 178C227 154 248 147 278 131S293 98 307 98S353 123 394 109"/>
+      <path d="M537-13C583 29 594-10 640 12S697 64 748 36S823 11 920 46M535 5C578 47 596 7 636 31S698 82 751 56S831 31 922 65M532 24C573 65 598 26 632 51S699 101 755 76S839 51 925 84"/>
+      <path d="M565 173C606 134 641 164 678 133S724 105 767 115S832 155 923 127M573 187C614 151 644 180 690 150S725 123 770 133S833 174 925 145"/>
     </g>
-    <path d="M145 132C175 94 202 156 243 127S278 144 320 105S364 105 397 63" stroke="#F0A06E" stroke-width="2.5" stroke-dasharray="5 7" stroke-linecap="round"/>
-    <circle cx="145" cy="132" r="7" fill="#F0A06E"/>
-    <circle cx="145" cy="132" r="14" stroke="#F0A06E" stroke-opacity=".5"/>
-    <circle cx="397" cy="63" r="6" fill="#F0A06E"/>
-    <path d="M290 69L309 35L328 69H290ZM320 69L334 45L349 69" stroke="#F5F1E8" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-    <path d="M302 48L309 53L316 48M329 54L334 58L339 54" stroke="#F5F1E8" stroke-width="1.5" stroke-linejoin="round"/>
-    <g transform="translate(521 103)" stroke="#F5F1E8" stroke-width="1.4">
-      <path d="M0-24V24M-24 0H24" stroke-opacity=".45"/>
-      <path d="M0-17L5 0L0 17L-5 0Z" fill="#F5F1E8"/>
-      <circle r="30" stroke-opacity=".35"/>
+    <path d="M467-14C488 16 427 35 451 65S498 97 474 123S461 153 483 175" stroke="#9DB8A7" stroke-opacity=".25" stroke-width="18"/>
+    <path d="M467-14C488 16 427 35 451 65S498 97 474 123S461 153 483 175" stroke="#B3CABC" stroke-width="2"/>
+    <path d="M175 111C216 76 232 139 281 116S339 139 389 109S425 77 454 85S484 114 524 87S574 63 621 77S656 61 671 44" stroke="#EB8555" stroke-width="3" stroke-linecap="round" stroke-dasharray="4 8"/>
+    <g stroke="#F5F1E8" stroke-width="2.4" stroke-linejoin="round">
+      <path d="M301 76L333 20L367 76H301Z" fill="#344C41"/>
+      <path d="M348 77L376 35L406 77H348Z" fill="#293D36"/>
+      <path d="M321 41L333 49L345 41M365 52L376 59L387 52"/>
     </g>
-    <text x="28" y="33" fill="#D5DEC9" font-family="'Courier New', monospace" font-size="12" letter-spacing="2">01 / WORLD BUILDING</text>
-    <text x="28" y="171" fill="#D5DEC9" font-family="'Courier New', monospace" font-size="11" letter-spacing="1.6">A LITTLE UNEXPLORED TERRITORY.</text>
+    <g transform="translate(49 31)">
+      <path d="M3 12C25 4 42 5 60 16C78 5 97 4 119 12V99C98 91 79 93 60 104C41 93 23 91 3 99V12Z" fill="#162B25"/>
+      <path d="M0 4C22-4 40-1 60 10C80-1 98-4 120 4V90C98 82 80 85 60 96C40 85 22 82 0 90V4Z" fill="#F5F1E8"/>
+      <path d="M60 10V96" stroke="#C8BCA5" stroke-width="2"/>
+      <path d="M14 24C25 21 38 23 46 28M14 37C25 34 38 36 46 41M14 50C25 47 38 49 46 54" stroke="#B7B49F" stroke-width="2" stroke-linecap="round"/>
+      <path d="M75 64C99 58 77 39 104 26" stroke="#B44D3C" stroke-width="2.5" stroke-dasharray="3 5" stroke-linecap="round"/>
+      <circle cx="75" cy="65" r="4" fill="#B44D3C"/>
+      <path d="M80-1V25L87 19L94 22V-5" fill="#EB8555"/>
+    </g>
+    <circle cx="175" cy="111" r="6" fill="#EB8555"/>
+    <circle cx="671" cy="44" r="6" fill="#EB8555"/>
+    <circle cx="671" cy="44" r="12" stroke="#EB8555" stroke-opacity=".6" stroke-width="1.5"/>
+    <g transform="translate(802 80)">
+      <circle r="46" stroke="#D9DECC" stroke-opacity=".28"/>
+      <circle r="37" stroke="#D9DECC" stroke-opacity=".16"/>
+      <path d="M0-58V-48M0 48V58M-58 0H-48M48 0H58" stroke="#D9DECC" stroke-width="1.5"/>
+      <path d="M-31-31L31 31M31-31L-31 31" stroke="#D9DECC" stroke-opacity=".3"/>
+      <path d="M0-40L8-8L40 0L8 8L0 40L-8 8L-40 0L-8-8Z" fill="#F5F1E8"/>
+      <path d="M0-40V0L8-8L0-40ZM0 0H40L8 8L0 0ZM0 0V40L-8 8L0 0ZM0 0H-40L-8-8L0 0Z" fill="#A5B49B"/>
+      <circle r="4" fill="#EB8555"/>
+    </g>
   </g>
 </svg>

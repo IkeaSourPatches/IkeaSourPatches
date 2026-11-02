@@ -1,45 +1,54 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="600" height="190" viewBox="0 0 600 190" fill="none" role="img" aria-labelledby="title desc">
-  <title id="title">One more square</title>
-  <desc id="desc">A peach Minesweeper illustration, with a numbered board, a little flag, and a pixel-style mine.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="160" viewBox="0 0 900 160" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">Just one more square</title>
+  <desc id="desc">A warm cream and peach Minesweeper panorama with a large pixel mine, beveled covered tiles, revealed numbered squares, and a red flag.</desc>
   <defs>
-    <clipPath id="frame"><rect width="600" height="190" rx="10"/></clipPath>
-    <pattern id="tiles" width="42" height="42" patternUnits="userSpaceOnUse">
-      <rect x="2" y="2" width="36" height="36" rx="5" fill="#E5B593" stroke="#CD9874"/>
-      <path d="M8 29V9H29" stroke="#FBE8D5" stroke-width="2" stroke-linecap="round"/>
+    <clipPath id="frame"><rect width="900" height="160" rx="12"/></clipPath>
+    <pattern id="tiles" width="60" height="60" patternUnits="userSpaceOnUse">
+      <rect x="2" y="2" width="54" height="54" rx="5" fill="#E6BC99" stroke="#CFA381"/>
+      <path d="M9 47V9H47" stroke="#F8E1CA" stroke-width="3" stroke-linecap="round"/>
+      <path d="M48 16V48H16" stroke="#D4A682" stroke-width="2" stroke-linecap="round"/>
     </pattern>
+    <g id="open"><rect x="2" y="2" width="54" height="54" rx="5" fill="#F8EADC" stroke="#D4B89F"/></g>
+    <g id="one" stroke="#52768B" stroke-width="5" stroke-linecap="square" stroke-linejoin="miter">
+      <path d="M22 23L30 17V43M21 43H39"/>
+    </g>
+    <g id="two" stroke="#477052" stroke-width="5" stroke-linecap="square" stroke-linejoin="miter">
+      <path d="M19 21V17H37V29L21 36V43H39"/>
+    </g>
+    <g id="three" stroke="#B44D3C" stroke-width="5" stroke-linecap="square" stroke-linejoin="miter">
+      <path d="M20 17H38V43H20M27 30H38"/>
+    </g>
   </defs>
   <g clip-path="url(#frame)">
-    <rect width="600" height="190" fill="#F2D3B5"/>
-    <circle cx="535" cy="156" r="189" fill="#EBC09D"/>
-    <g transform="translate(326 -26) rotate(9 126 126)">
-      <rect x="-6" y="-6" width="264" height="264" rx="12" fill="#D29C79"/>
-      <rect width="252" height="252" fill="url(#tiles)"/>
-      <g fill="#F7E7D5">
-        <rect x="44" y="44" width="36" height="36" rx="5"/>
-        <rect x="86" y="44" width="36" height="36" rx="5"/>
-        <rect x="128" y="44" width="36" height="36" rx="5"/>
-        <rect x="44" y="86" width="36" height="36" rx="5"/>
-        <rect x="86" y="86" width="36" height="36" rx="5"/>
-        <rect x="128" y="86" width="36" height="36" rx="5"/>
-        <rect x="86" y="128" width="36" height="36" rx="5"/>
-      </g>
-      <g font-family="'Courier New', monospace" font-size="24" font-weight="700" text-anchor="middle">
-        <text x="62" y="70" fill="#637E92">1</text>
-        <text x="104" y="70" fill="#527C5C">2</text>
-        <text x="146" y="70" fill="#BC5B3A">3</text>
-        <text x="146" y="112" fill="#637E92">1</text>
-        <text x="104" y="154" fill="#637E92">1</text>
-      </g>
-      <path d="M188 140V162M180 162H196" stroke="#333B32" stroke-width="3" stroke-linecap="round"/>
-      <path d="M188 136V150L203 143Z" fill="#C95E3B"/>
+    <rect width="900" height="160" fill="#F5F1E8"/>
+    <circle cx="124" cy="80" r="125" fill="#F0D6BF"/>
+    <circle cx="124" cy="80" r="78" stroke="#D8B396" stroke-width="1.5"/>
+    <path d="M-9 22L18-5M13 160L39 134M207 20L229-2" stroke="#E3C1A6" stroke-width="1.5"/>
+    <g transform="translate(124 80)" fill="#293D36">
+      <path d="M-25-34H25V-25H34V25H25V34H-25V25H-34V-25H-25Z"/>
+      <path d="M-4-50H4V50H-4ZM-50-4H50V4H-50ZM-37-43L43 37L37 43L-43-37ZM37-43L43-37L-37 43L-43 37Z"/>
+      <path d="M-17-19H-4V-6H-17Z" fill="#F5F1E8"/>
     </g>
-    <text x="28" y="33" fill="#5A4D3D" font-family="'Courier New', monospace" font-size="12" letter-spacing="2">02 / SMALL GAMES</text>
-    <g transform="translate(118 96)" fill="#333B32">
-      <path d="M-18-25H18V-18H25V18H18V25H-18V18H-25V-18H-18Z"/>
-      <path d="M-3-37H3V37H-3ZM-37-3H37V3H-37ZM-28-32L32 28L28 32L-32-28ZM28-32L32-28L-28 32L-32 28Z"/>
-      <rect x="-13" y="-14" width="9" height="9" fill="#F7E7D5"/>
+    <g transform="translate(256 -34) rotate(6 330 90)">
+      <rect x="-5" y="-5" width="730" height="250" rx="10" fill="#D6AA88"/>
+      <rect width="720" height="240" fill="url(#tiles)"/>
+      <g transform="translate(60 60)"><use href="#open"/><use href="#one"/></g>
+      <g transform="translate(120 60)"><use href="#open"/><use href="#two"/></g>
+      <g transform="translate(180 60)"><use href="#open"/><use href="#three"/></g>
+      <g transform="translate(60 120)"><use href="#open"/></g>
+      <g transform="translate(120 120)"><use href="#open"/><use href="#one"/></g>
+      <g transform="translate(180 120)"><use href="#open"/><use href="#two"/></g>
+      <g transform="translate(60 180)"><use href="#open"/></g>
+      <g transform="translate(120 180)"><use href="#open"/></g>
+      <g transform="translate(180 180)"><use href="#open"/><use href="#one"/></g>
+      <g transform="translate(420 60)">
+        <rect x="2" y="2" width="54" height="54" rx="5" fill="#EB8555" stroke="#B76D45"/>
+        <path d="M8 46V8H46" stroke="#F6BB90" stroke-width="2" stroke-linecap="round"/>
+        <path d="M26 14V44M17 44H37" stroke="#293D36" stroke-width="3.5" stroke-linecap="square"/>
+        <path d="M26 12V30L44 21Z" fill="#B44D3C" stroke="#293D36" stroke-width="1.5" stroke-linejoin="round"/>
+      </g>
     </g>
-    <path d="M206 85H237M228 76L237 85L228 94" stroke="#BC5B3A" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-    <text x="28" y="171" fill="#5A4D3D" font-family="'Courier New', monospace" font-size="11" letter-spacing="1.6">ONE MORE SQUARE. WHAT COULD GO WRONG?</text>
+    <path d="M211 75H233M226 68L233 75L226 82" stroke="#B44D3C" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M207 110H214V117H207ZM39 29H46V36H39Z" fill="#B44D3C"/>
   </g>
 </svg>

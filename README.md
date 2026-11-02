@@ -10,4 +10,9 @@ Student at Singapore American School. Competitive programmer, builder of strange
 - 💣 [Minesweeper](https://ikeasourpatches.github.io/minesweeper/): the classic 10×10 board, in one HTML file
 - 🎲 Off the keyboard: GMing D&D and SWADE, Model UN, Stellaris, and Genshin
 
+**Recently forked, no explanation given:**
+- [mesh-avatar-studio](https://github.com/IkeaSourPatches/mesh-avatar-studio)
+- [better-usaco](https://github.com/IkeaSourPatches/better-usaco)
+- [claude-code-video-toolkit](https://github.com/IkeaSourPatches/claude-code-video-toolkit)
+
 ✉️ gordonji.contact@gmail.com

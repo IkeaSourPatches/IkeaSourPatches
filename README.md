@@ -75,28 +75,6 @@ Usually GMing **D&D** or **SWADE**, doing **Model UN**, or somewhere in **Stella
 
 <sub>From GitHub's public contribution calendar. Refreshed weekly. [Full activity →](https://github.com/IkeaSourPatches?tab=overview#year-list-container)</sub>
 
-### Before you go: one safe click
-
-Three covered squares. All possible mines are in the top row. Which square can you click safely?
-
-```text
-       A   B   C
-     ┌───┬───┬───┐
-     │ ? │ ? │ ? │
-     ├───┼───┼───┤
-     │ 1 │ 2 │ 1 │
-     └───┴───┴───┘
-```
-
-<details>
-  <summary>Reveal the safe square</summary>
-
-**B is safe.** The middle `2` needs two mines across A, B, and C. Each outer `1` can touch only one mine, so the mines must be at **A and C**.
-
-[Try a bigger board →](https://ikeasourpatches.github.io/minesweeper/)
-
-</details>
-
 ---
 
 <p align="center">

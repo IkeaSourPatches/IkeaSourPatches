@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="180" viewBox="0 0 640 180" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">A year of little things — GitHub profile activity</title>
+  <desc id="desc">IkeaSourPatches's GitHub contributions shown on the public profile in the past year, 2025-11-02 through 2026-11-02: 179 contributions across 19 active days. Longest run: 7 consecutive active days. Updated 2026-11-02.</desc>
+  <rect width="640" height="180" rx="16" fill="#F5F1E8"/>
+  <path d="M214 65V132M426 65V132" stroke="#DAD8CC"/>
+  <text x="28" y="33" fill="#596658" font-family="Arial, Helvetica, sans-serif" font-size="18">Past year on GitHub</text>
+  <g fill="#29382F" font-family="Arial, Helvetica, sans-serif" font-size="44" font-weight="700">
+    <text x="28" y="96">179</text>
+    <text x="242" y="96">19</text>
+    <text x="454" y="96">7<tspan font-size="22" font-weight="400"> days</tspan></text>
+  </g>
+  <g fill="#596658" font-family="Arial, Helvetica, sans-serif" font-size="18">
+    <text x="28" y="125">Contributions</text>
+    <text x="242" y="125">Active days</text>
+    <text x="454" y="125">Longest run</text>
+  </g>
+  <path d="M28 157H48" stroke="#D5693E" stroke-width="3"/>
+  <text x="61" y="162" fill="#596658" font-family="Arial, Helvetica, sans-serif" font-size="14">Public calendar · Updated 2026-11-02</text>
+  <rect x="555" y="22" width="10" height="10" rx="2" fill="#DAD8CC"/>
+  <rect x="570" y="22" width="10" height="10" rx="2" fill="#E8C9AE"/>
+  <rect x="585" y="22" width="10" height="10" rx="2" fill="#E69C72"/>
+  <rect x="600" y="22" width="10" height="10" rx="2" fill="#D5693E"/>
+</svg>

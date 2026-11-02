@@ -1,0 +1,37 @@
+name: Refresh profile activity
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - scripts/update_activity.py
+      - .github/workflows/activity.yml
+  schedule:
+    - cron: "17 0 * * 1"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-activity
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4
+      - name: Read public GitHub activity
+        run: python3 scripts/update_activity.py
+      - name: Commit the refreshed card when it changes
+        run: |
+          if git diff --quiet -- assets/activity.svg assets/activity-mobile.svg; then
+            exit 0
+          fi
+          git add -- assets/activity.svg assets/activity-mobile.svg
+          git -c user.name='github-actions[bot]' \
+              -c user.email='41898282+github-actions[bot]@users.noreply.github.com' \
+              commit -m "Refresh public GitHub activity"
+          git push

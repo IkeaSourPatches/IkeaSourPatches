@@ -8,11 +8,24 @@
 
 Student at **Singapore American School**. Competitive programmer, builder of strange little things, and occasional worldbuilder.
 
-Right now, you'll find me:
+**Current quests**
 
 - **Writing C++** and training for USACO Bronze.
 - **Experimenting with AI**, image generation, and whatever catches my eye.
 - **Bringing String to life** — my calico catgirl OC, with four sticker packs live on WeChat and a Live2D model.
+
+### Tools on my desk
+
+<p>
+  <img src="assets/icons/cplusplus.svg" width="36" height="36" alt="C++" title="C++" />&nbsp;
+  <img src="assets/icons/typescript.svg" width="36" height="36" alt="TypeScript" title="TypeScript" />&nbsp;
+  <img src="assets/icons/react.svg" width="36" height="36" alt="React" title="React" />&nbsp;
+  <img src="assets/icons/python.svg" width="36" height="36" alt="Python" title="Python" />&nbsp;
+  <img src="assets/icons/vite.svg" width="36" height="36" alt="Vite" title="Vite" />&nbsp;
+  <img src="assets/icons/html5.svg" width="36" height="36" alt="HTML" title="HTML" />
+</p>
+
+C++ for practice; React, TypeScript, Vite, and Python/Django in the [wiki](https://github.com/IkeaSourPatches/quoderat-wiki). Learning by making things.
 
 ## A few things I've made
 
@@ -51,9 +64,46 @@ Usually GMing **D&D** or **SWADE**, doing **Model UN**, or somewhere in **Stella
 
 </details>
 
+## A little progress
+
+<a href="https://github.com/IkeaSourPatches?tab=overview#year-list-container">
+  <picture>
+    <source media="(max-width: 600px)" srcset="assets/activity-mobile.svg" />
+    <img src="assets/activity.svg" width="100%" alt="GitHub contribution activity over the past year: contributions, active days, and longest streak. The card includes its last-updated date." />
+  </picture>
+</a>
+
+<sub>From GitHub's public contribution calendar. Refreshed weekly. [Full activity →](https://github.com/IkeaSourPatches?tab=overview#year-list-container)</sub>
+
+### Before you go: one safe click
+
+Three covered squares. All possible mines are in the top row. Which square can you click safely?
+
+```text
+       A   B   C
+     ┌───┬───┬───┐
+     │ ? │ ? │ ? │
+     ├───┼───┼───┤
+     │ 1 │ 2 │ 1 │
+     └───┴───┴───┘
+```
+
+<details>
+  <summary>Reveal the safe square</summary>
+
+**B is safe.** The middle `2` needs two mines across A, B, and C. Each outer `1` can touch only one mine, so the mines must be at **A and C**.
+
+[Try a bigger board →](https://ikeasourpatches.github.io/minesweeper/)
+
+</details>
+
 ---
 
 <p align="center">
   <b>Have a strange little idea?</b> I'd like to hear it.<br />
   <a href="mailto:gordonji.contact@gmail.com">gordonji.contact@gmail.com</a>
+</p>
+
+<p align="center">
+  <sub>Inspired by <a href="https://github.com/YianXie/yianxie">Yian's profile</a>. Different worlds, same rabbit holes.</sub>
 </p>

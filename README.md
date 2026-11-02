@@ -41,17 +41,15 @@ Right now, you'll find me:
 
 Usually GMing **D&D** or **SWADE**, doing **Model UN**, or somewhere in **Stellaris** and **Genshin**. Apparently, building fictional worlds wasn't enough; I have to spend time in other people's, too.
 
-<details>
+<details open>
   <summary><b>Recently forked, no explanation given.</b></summary>
   <br />
 
-  - [mesh-avatar-studio](https://github.com/IkeaSourPatches/mesh-avatar-studio)
-  - [better-usaco](https://github.com/IkeaSourPatches/better-usaco)
-  - [claude-code-video-toolkit](https://github.com/IkeaSourPatches/claude-code-video-toolkit)
+  - [mesh-avatar-studio](https://github.com/IkeaSourPatches/mesh-avatar-studio): okay, one explanation. [My PR got merged](https://github.com/shinshin86/mesh-avatar-studio/pull/78), and String's eyes use it.
+  - [better-usaco](https://github.com/IkeaSourPatches/better-usaco): also [merged](https://github.com/YianXie/better-usaco/pull/1). It remembers your submission language now.
+  - [claude-code-video-toolkit](https://github.com/IkeaSourPatches/claude-code-video-toolkit): no explanation.
 
 </details>
-
-<br />
 
 ---
 

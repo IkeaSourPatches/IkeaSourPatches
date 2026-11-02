@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="190" viewBox="0 0 600 190" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">A world waiting to be explored</title>
+  <desc id="desc">A dark green fictional map, with cream contour lines, mountains, and an orange route between two places.</desc>
+  <defs>
+    <clipPath id="frame"><rect width="600" height="190" rx="10"/></clipPath>
+    <pattern id="grid" width="38" height="38" patternUnits="userSpaceOnUse">
+      <path d="M38 0H0V38" stroke="#D8E0CE" stroke-opacity=".08"/>
+    </pattern>
+  </defs>
+  <g clip-path="url(#frame)">
+    <rect width="600" height="190" fill="#293D36"/>
+    <rect width="600" height="190" fill="url(#grid)"/>
+    <g stroke="#C8D2B5" stroke-opacity=".35" stroke-width="1.2">
+      <path d="M-30 157C46 69 43 34 117 39S199 104 261 68S281-27 367-8S437 100 490 79S548 12 636 27"/>
+      <path d="M-30 180C55 87 55 53 117 59S193 125 269 89S294-4 359 12S431 123 499 101S555 35 635 49"/>
+      <path d="M-22 205C68 110 67 75 118 81S193 147 277 111S305 18 351 32S426 145 507 123S564 57 636 71"/>
+      <path d="M13 207C88 131 79 98 120 103S190 169 286 133S315 40 344 52S419 169 516 145S574 80 636 93"/>
+      <path d="M-34 119C25 80 20 11 107 16S191 80 251 47S270-47 376-29"/>
+      <path d="M376 205C411 184 431 199 479 180S561 107 635 116"/>
+    </g>
+    <path d="M145 132C175 94 202 156 243 127S278 144 320 105S364 105 397 63" stroke="#F0A06E" stroke-width="2.5" stroke-dasharray="5 7" stroke-linecap="round"/>
+    <circle cx="145" cy="132" r="7" fill="#F0A06E"/>
+    <circle cx="145" cy="132" r="14" stroke="#F0A06E" stroke-opacity=".5"/>
+    <circle cx="397" cy="63" r="6" fill="#F0A06E"/>
+    <path d="M290 69L309 35L328 69H290ZM320 69L334 45L349 69" stroke="#F5F1E8" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M302 48L309 53L316 48M329 54L334 58L339 54" stroke="#F5F1E8" stroke-width="1.5" stroke-linejoin="round"/>
+    <g transform="translate(521 103)" stroke="#F5F1E8" stroke-width="1.4">
+      <path d="M0-24V24M-24 0H24" stroke-opacity=".45"/>
+      <path d="M0-17L5 0L0 17L-5 0Z" fill="#F5F1E8"/>
+      <circle r="30" stroke-opacity=".35"/>
+    </g>
+    <text x="28" y="33" fill="#D5DEC9" font-family="'Courier New', monospace" font-size="12" letter-spacing="2">01 / WORLD BUILDING</text>
+    <text x="28" y="171" fill="#D5DEC9" font-family="'Courier New', monospace" font-size="11" letter-spacing="1.6">A LITTLE UNEXPLORED TERRITORY.</text>
+  </g>
+</svg>

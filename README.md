@@ -56,6 +56,12 @@ C++ for practice; React, TypeScript, Vite, and Python/Django in the [wiki](https
 
 Usually GMing **D&D** or **SWADE**, doing **Model UN**, or somewhere in **Stellaris** and **Genshin**. Apparently, building fictional worlds wasn't enough; I have to spend time in other people's, too.
 
+| Game | Name | Server | UID |
+| --- | --- | --- | --- |
+| Genshin Impact | IkeaSourPatch | Asia | 880058952 |
+| Honkai: Star Rail | IkeaSourPatch | Asia | 830806147 |
+| Honkai Impact 3rd | IkeaSourPatches | SEA | 24131371 |
+
 <details open>
   <summary><b>Recently forked, no explanation given.</b></summary>
   <br />

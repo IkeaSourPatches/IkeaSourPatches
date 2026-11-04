@@ -18,14 +18,11 @@ Student at **Singapore American School**. Competitive programmer, builder of str
 
 <p>
   <img src="assets/icons/cplusplus.svg" width="36" height="36" alt="C++" title="C++" />&nbsp;
-  <img src="assets/icons/typescript.svg" width="36" height="36" alt="TypeScript" title="TypeScript" />&nbsp;
-  <img src="assets/icons/react.svg" width="36" height="36" alt="React" title="React" />&nbsp;
-  <img src="assets/icons/python.svg" width="36" height="36" alt="Python" title="Python" />&nbsp;
-  <img src="assets/icons/vite.svg" width="36" height="36" alt="Vite" title="Vite" />&nbsp;
-  <img src="assets/icons/html5.svg" width="36" height="36" alt="HTML" title="HTML" />
+  <img src="assets/icons/java.svg" width="36" height="36" alt="Java" title="Java" />&nbsp;
+  <img src="assets/icons/python.svg" width="36" height="36" alt="Python" title="Python" />
 </p>
 
-C++ for practice; React, TypeScript, Vite, and Python/Django in the [wiki](https://github.com/IkeaSourPatches/quoderat-wiki). Learning by making things.
+C++ for practice, Java from class, and Python/Django in the [wiki](https://github.com/IkeaSourPatches/quoderat-wiki). Learning by making things.
 
 ## A few things I've made
 
@@ -54,7 +51,7 @@ C++ for practice; React, TypeScript, Vite, and Python/Django in the [wiki](https
 
 <img src="assets/stickers/slacking.png" align="right" width="96" alt="String asleep on a plush fish, captioned 摸鱼 (slacking off)" />
 
-Usually GMing **D&D** or **SWADE**, doing **Model UN**, or somewhere in **Stellaris** and **Genshin**. Apparently, building fictional worlds wasn't enough; I have to spend time in other people's, too.
+Usually somewhere in **Stellaris** and **Genshin**, doing **Model UN**, or GMing **D&D** or **SWADE**. Apparently, building fictional worlds wasn't enough; I have to spend time in other people's, too.
 
 <img src="assets/games/genshin.png" width="420" alt="Genshin Impact card: IkeaSourPatch, Asia server, UID 880058952" /><br />
 Genshin Impact: IkeaSourPatch, Asia server, UID `880058952`

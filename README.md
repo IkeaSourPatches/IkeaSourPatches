@@ -56,11 +56,16 @@ C++ for practice; React, TypeScript, Vite, and Python/Django in the [wiki](https
 
 Usually GMing **D&D** or **SWADE**, doing **Model UN**, or somewhere in **Stellaris** and **Genshin**. Apparently, building fictional worlds wasn't enough; I have to spend time in other people's, too.
 
-| Game (server) | Name | UID |
-| --- | --- | --- |
-| Genshin Impact (Asia) | IkeaSourPatch | 880058952 |
-| Honkai: Star Rail (Asia) | IkeaSourPatch | 830806147 |
-| Honkai Impact 3rd (SEA) | IkeaSourPatches | 24131371 |
+<img src="assets/games/genshin.png" width="420" alt="Genshin Impact card: IkeaSourPatch, Asia server, UID 880058952" /><br />
+Genshin Impact: IkeaSourPatch, Asia server, UID `880058952`
+
+<img src="assets/games/hsr.png" width="420" alt="Honkai: Star Rail card: IkeaSourPatch, Asia server, UID 830806147" /><br />
+Honkai: Star Rail: IkeaSourPatch, Asia server, UID `830806147`
+
+<img src="assets/games/hi3.png" width="420" alt="Honkai Impact 3rd card: IkeaSourPatches, SEA server, UID 24131371" /><br />
+Honkai Impact 3rd: IkeaSourPatches, SEA server, UID `24131371`
+
+<sub>Card art © HoYoverse, from HoYoLAB.</sub>
 
 <details open>
   <summary><b>Recently forked, no explanation given.</b></summary>

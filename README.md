@@ -6,7 +6,7 @@
 
 <img src="string.png" align="right" width="130" alt="String, my calico catgirl character, waving hello" />
 
-Student at **Singapore American School**. Competitive programmer, builder of strange little things, and occasional worldbuilder.
+Student at **Singapore American School**. Competitive programmer, builder of strange little things, and occasional worldbuilder. The longer version is on [my site](https://ikeasourpatches.github.io/).
 
 **Current quests**
 

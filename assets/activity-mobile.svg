@@ -1,15 +1,15 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="360" height="240" viewBox="0 0 360 240" fill="none" role="img" aria-labelledby="title desc">
   <title id="title">A year of little things — GitHub profile activity</title>
-  <desc id="desc">IkeaSourPatches's GitHub contributions shown on the public profile in the past year, 2025-11-02 through 2026-11-04: 201 contributions across 20 active days. Longest run: 7 consecutive active days. Updated 2026-11-04.</desc>
+  <desc id="desc">IkeaSourPatches's GitHub contributions shown on the public profile in the past year, 2025-11-09 through 2026-11-09: 228 contributions across 23 active days. Longest run: 9 consecutive active days. Updated 2026-11-09.</desc>
   <rect width="360" height="240" rx="16" fill="#F5F1E8"/>
   <text x="22" y="33" fill="#596658" font-family="Arial, Helvetica, sans-serif" font-size="18">Past year on GitHub</text>
   <rect x="286" y="22" width="9" height="9" rx="2" fill="#E8C9AE"/>
   <rect x="300" y="22" width="9" height="9" rx="2" fill="#E69C72"/>
   <rect x="314" y="22" width="9" height="9" rx="2" fill="#D5693E"/>
   <g fill="#29382F" font-family="Arial, Helvetica, sans-serif" font-size="32" font-weight="700">
-    <text x="22" y="88">201</text>
-    <text x="22" y="136">20</text>
-    <text x="22" y="184">7</text>
+    <text x="22" y="88">228</text>
+    <text x="22" y="136">23</text>
+    <text x="22" y="184">9</text>
   </g>
   <g fill="#596658" font-family="Arial, Helvetica, sans-serif" font-size="18">
     <text x="154" y="83">Contributions</text>
@@ -17,5 +17,5 @@
     <text x="154" y="179">Longest run (days)</text>
   </g>
   <path d="M22 204H338" stroke="#DAD8CC"/>
-  <text x="22" y="225" fill="#596658" font-family="Arial, Helvetica, sans-serif" font-size="13">Updated 2026-11-04 · Public calendar</text>
+  <text x="22" y="225" fill="#596658" font-family="Arial, Helvetica, sans-serif" font-size="13">Updated 2026-11-09 · Public calendar</text>
 </svg>

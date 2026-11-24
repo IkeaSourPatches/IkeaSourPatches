@@ -48,7 +48,7 @@ C++ for practice, Java from class, and Python/Django in the [wiki](https://githu
   <tr>
     <td colspan="2" valign="top">
       <a href="https://github.com/IkeaSourPatches/tmcpp">
-        <img src="assets/tmcpp.svg" width="100%" alt="Three lines of TMC++ code next to the dashed parabola and focus point they draw on graph paper" />
+        <img src="assets/tmcpp.svg" width="50%" alt="Three lines of TMC++ code next to the dashed parabola and focus point they draw on graph paper" />
       </a>
       <h3><a href="https://github.com/IkeaSourPatches/tmcpp">TMC++</a></h3>
       <p>Desmos graphs as code, with classes. A preprocessor for DesModder's Text Mode that adds CSS-style classes, components and libraries, compiled live by a browser extension. Its <b>MCP server</b> lets AI apps draw straight into your Desmos tab.</p>
